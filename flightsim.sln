@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flightsim", "Assembly-CSharp.csproj", "{11DD0A26-98BD-16D7-6425-5C6E8AD593C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flightsim", "Assembly-CSharp-firstpass.csproj", "{4266DABD-37F1-4271-68AB-BF8DEFEAE9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flightsim", "Assembly-CSharp-Editor.csproj", "{07332B2C-249E-58E5-06A5-50E8F7AED891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11DD0A26-98BD-16D7-6425-5C6E8AD593C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DD0A26-98BD-16D7-6425-5C6E8AD593C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DD0A26-98BD-16D7-6425-5C6E8AD593C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DD0A26-98BD-16D7-6425-5C6E8AD593C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4266DABD-37F1-4271-68AB-BF8DEFEAE9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4266DABD-37F1-4271-68AB-BF8DEFEAE9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4266DABD-37F1-4271-68AB-BF8DEFEAE9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4266DABD-37F1-4271-68AB-BF8DEFEAE9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07332B2C-249E-58E5-06A5-50E8F7AED891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07332B2C-249E-58E5-06A5-50E8F7AED891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07332B2C-249E-58E5-06A5-50E8F7AED891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07332B2C-249E-58E5-06A5-50E8F7AED891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

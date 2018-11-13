@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: cfea5b31a2382be4980aa6372fecd025
+timeCreated: 1524885237
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TP_jigai_01
+    100004: TP_jigai_02
+    100006: TP_jiti
+    100008: TP_jiyi_01
+    100010: TP_jiyi_02
+    100012: TP_jiyi_03
+    100014: TP_jiyi_04
+    100016: TP_jiyi_05
+    100018: TP_jiyi_06
+    100020: TP_jiyi_07
+    100022: TP_lun_01
+    100024: TP_lun_02
+    100026: TP_lun_03
+    100028: TP_lxj_003
+    100030: TP_lxj_01
+    100032: TP_tanceqi
+    400000: //RootNode
+    400002: TP_jigai_01
+    400004: TP_jigai_02
+    400006: TP_jiti
+    400008: TP_jiyi_01
+    400010: TP_jiyi_02
+    400012: TP_jiyi_03
+    400014: TP_jiyi_04
+    400016: TP_jiyi_05
+    400018: TP_jiyi_06
+    400020: TP_jiyi_07
+    400022: TP_lun_01
+    400024: TP_lun_02
+    400026: TP_lun_03
+    400028: TP_lxj_003
+    400030: TP_lxj_01
+    400032: TP_tanceqi
+    2300000: TP_jigai_01
+    2300002: TP_jigai_02
+    2300004: TP_jiti
+    2300006: TP_jiyi_01
+    2300008: TP_jiyi_02
+    2300010: TP_jiyi_03
+    2300012: TP_jiyi_04
+    2300014: TP_jiyi_05
+    2300016: TP_jiyi_06
+    2300018: TP_jiyi_07
+    2300020: TP_lun_01
+    2300022: TP_lun_02
+    2300024: TP_lun_03
+    2300026: TP_lxj_003
+    2300028: TP_lxj_01
+    2300030: TP_tanceqi
+    3300000: TP_jigai_01
+    3300002: TP_jigai_02
+    3300004: TP_jiti
+    3300006: TP_jiyi_01
+    3300008: TP_jiyi_02
+    3300010: TP_jiyi_03
+    3300012: TP_jiyi_04
+    3300014: TP_jiyi_05
+    3300016: TP_jiyi_06
+    3300018: TP_jiyi_07
+    3300020: TP_lun_01
+    3300022: TP_lun_02
+    3300024: TP_lun_03
+    3300026: TP_lxj_003
+    3300028: TP_lxj_01
+    3300030: TP_tanceqi
+    4300000: TP_jiti
+    4300002: TP_lun_02
+    4300004: TP_lxj_003
+    4300006: TP_lxj_01
+    4300008: TP_jiyi_01
+    4300010: TP_jiyi_02
+    4300012: TP_jiyi_03
+    4300014: TP_jiyi_04
+    4300016: TP_jiyi_05
+    4300018: TP_jiyi_06
+    4300020: TP_jiyi_07
+    4300022: TP_lun_01
+    4300024: TP_lun_03
+    4300026: TP_jigai_01
+    4300028: TP_jigai_02
+    4300030: TP_tanceqi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
